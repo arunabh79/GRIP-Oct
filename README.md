@@ -1,4 +1,4 @@
-# GRIP-Oct
+# GRIP-Oct21
 **Task #6- Prediction using Decision Tree Algorithm:** 
 Task details:
 To create the decision tree classifier and visualise it graphically.
